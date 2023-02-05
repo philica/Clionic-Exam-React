@@ -31498,7 +31498,7 @@ body.nav-shown {
 }
 
 .is-light .nk-menu-link {
-  color: #526484;
+  color: #fff !important;
 }
 
 .is-theme .nk-menu-link {
